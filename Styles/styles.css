@@ -1,12 +1,27 @@
-.nav-link {
-    color: white;
-    display: flex;
-    align-items: flex-end;
-}
+/* Column Start */
 
 .colNav {
     background-color: #000324;
+    width: 1920px;
     height: 120px;
+}
+
+.colHeader {
+    
+}
+
+
+
+
+/* End of Column */
+
+/* Navbar */
+
+.nav-link {
+    font-size: 20px;
+    color: white;
+    display: flex;
+    align-items: flex-end;
 }
 
 .nav-item {
@@ -18,3 +33,4 @@
     border: 2px solid #e5feef;
 }
 
+/* Navbar End */
